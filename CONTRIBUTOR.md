@@ -27,7 +27,7 @@ feature/#1-def-route
 ## コミットメッセージ規約
 
 ```
-<type>: <message> (#<issue番号>)
+<type>: <message>
 (空行)
 [コミットの詳細]
 ```
