@@ -74,3 +74,7 @@ exclude = .git,__pycache__,__init__.py,.mypy_cache,.pytest_cache,.venv
 
 単体テストは主にpytestを用います。また、簡単なテストには適宜doctestを使ってください。
 可能な限りdocstringも書くようにお願いします。
+
+## issueの立て方
+
+基本的にはテンプレートに従ってください。
