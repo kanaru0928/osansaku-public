@@ -1,2 +1,3 @@
 # osansaku
 
+- [コントリビューション](CONTRIBUTOR.md)
