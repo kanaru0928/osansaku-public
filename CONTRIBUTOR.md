@@ -19,9 +19,12 @@ issue駆動開発を行います。
 ```
 feature/#<issue番号>-<コメント>
 ```
-としてください。例えば、
+としてください。
+
+### 例
+
 ```
-feature/#1-def-route
+feature/#1-define-route
 ```
 
 ## コミットメッセージ規約
@@ -46,10 +49,6 @@ feature/#1-def-route
 | change | 仕様変更 |
 | style | コードの見た目の変更 |
 | test | テスト項目に関する変更 |
-
-###
-
-issue番号はPR作成前のコミットのみにつける。
 
 ### 例
 
